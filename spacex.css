@@ -1,0 +1,225 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    font: 16px/26px D-DIN-Regular,Arial,Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    color: #fff;
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+}
+.header{
+   margin: 0;
+    position: fixed;
+    width: 1280px;
+    height: 100px;
+    text-align: left;
+    top: 0px;
+    align-items: center;
+    justify-content: center;
+    display: inline;
+}
+.logo{
+    position: absolute;
+    top: 27px;
+    left: 51px;
+    width: 229px;
+    height: 38px;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    list-style-type: none;
+    margin-top: 37px;
+    margin-left: 298px;
+    column-gap: 14px;
+    padding: 0;
+    text-decoration: none;
+    width: 700px;
+}
+.nav-item{
+    text-decoration: none;
+    font: 14px/28px D-DIN-Regular,Arial,Verdana,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: left;
+    color: #fff;
+ 
+}
+.shop{
+    margin-left: 1151px;
+    margin-top: -44px;
+}
+.bar{
+
+
+    margin-top: -21px;
+    margin-left: 1232px;
+    background-color: #fff;
+    width: 100%;
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    height: 2px;
+    width:16px;
+}
+.bar1{
+
+
+    margin-top: 2px;
+    margin-left: 1232px;
+    background-color: #fff;
+    width: 100%;
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    height: 2px;
+    width:16px;
+}
+
+.bar3{
+
+
+    margin-top: 2px;
+    margin-left: 1232px;
+    background-color: #fff;
+    width: 100%;
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    height: 2px;
+    width:16px;
+}
+.home1{
+    background-image: url(img/bg2.webp);
+    height: 583px;
+     background-repeat: no-repeat;   
+    background-size: 100%;
+}
+.hed1{
+    margin-top: 324px;
+    margin-left: 49px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.hed2{
+    font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+ margin-left: 47px;
+ font-size: 48px;
+ margin-top: -10px;
+
+}
+.btn{
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+   padding-left: 47px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 47px;
+    margin: 30px 0 0;
+    border: 2px solid #fff;
+    cursor:hover;
+}
+.btn:hover{
+    background-color: #fff;
+    color: black;
+
+}
+.hover {
+   
+    position: absolute;
+    top: 471px;
+    left: 54px;
+ 
+}
+.btntext{
+ text-decoration: none;
+
+
+}
+.home2{
+    background-image: url(img/bg3.webp);
+    height: 584px;
+   background-repeat: no-repeat;
+    background-size: 100%;
+}
+.btn2{
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+   padding-left: 47px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 47px;
+    margin: 30px 0 0;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+
+
+.hover2 {
+   
+    position: absolute;
+    
+    left: 54px;
+ 
+}
+.home3{
+    background-image: url(https://www.spacex.com/static/images/backgrounds-2022/sl4-16/post-launch/Homepage_Desktop.webp);
+    height: 584px;
+   background-repeat: no-repeat;
+    background-size: 100%;
+}
+.hover3 {
+   
+    position: absolute;
+    
+    left: 54px;
+ 
+}
+.home4{
+    background-image: url(https://www.spacex.com/static/images/backgrounds-2022/starship-update/S20_Chopstick_Stack_Desktop.webp);
+    height: 584px;
+   background-repeat: no-repeat;
+    background-size: 100%;
+}
+.hed4{ font: 46px/50px D-DIN-Bold,Arial,Verdana,sans-serif;
+    margin-left: 47px;
+    font-size: 48px;
+    margin-top: 324px;
+}
+.home5{
+    background-image: url(img/bg6.webp);
+    height: 584px;
+    background-repeat: no-repeat;
+     background-size: 100%;
+ 
+}
+.hed5{
+    font-size: 39px;
+    margin-left: 47px;
+    margin-top: -8px;
+    margin-bottom: 44px;
+}
+.hed6{
+    font-size: 39px;
+    margin-left: 47px;
+    margin-top: -8px;
+}
+.hed7{
+    font-size: 39px;
+    margin-left: 47px;
+    margin-top: 307px;
+}
+.footer{
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+    height: 99px;
+    display: flex;
+    flex-direction: row;
+}
